@@ -24,8 +24,8 @@ const Toggle = () => {
 
         <section className="content">
           <h1>
-            Welcome To A <br />
-            Real World
+            I am <br />
+         Batman!!
           </h1>
         </section>
       </section>
